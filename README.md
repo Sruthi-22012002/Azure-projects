@@ -55,10 +55,3 @@
 [http://localhost:3000/](http://localhost:3000/)
 
 <img src="https://github.com/user-attachments/assets/a63e851c-a247-4257-9f55-74c76667bce1" alt="localhost 3000" width="700"/>
-
-### 2. Secure Access Using Service Endpoint
-
-> Service Endpoints provide secure connectivity to Azure services over the Azure backbone network while still using the public IP address of the service. This means that while the Azure service (e.g., Azure Blob Storage) remains accessible publicly, the traffic between your Azure Virtual Network (VNet) and the service is isolated and routed over the Azure internal network, providing an additional layer of security.
-
-
-### 3. Secure Access Using Private Link
